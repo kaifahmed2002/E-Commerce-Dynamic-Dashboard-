@@ -1,6 +1,7 @@
 # E-Commerce-Dynamic-Dashboard-
 The E-commerce Dynamic Dashboard project is designed to provide comprehensive insights and analytics for businesses operating in the e-commerce sector. By leveraging key metrics and visualizations, this dashboard enables businesses to make data-driven decisions that drive growth, improve customer satisfaction, and optimize operations.
 
+![Dashboard 1 (1)](https://github.com/kaifahmed2002/E-Commerce-Dynamic-Dashboard-/assets/92524691/a32215ec-51de-40d6-81b6-67896c43e26f)
 
 ### Key Metrics:
 
@@ -96,3 +97,12 @@ Remove some outliers from stockcode column
 
 Again sampling from 36k to 10k
 
+
+
+## SHARE (Data Visualization)
+The following visualizations represent the analysis in graphical form. All the visualizations have been created using Tableau Public.  
+
+
+### E-Commerce Dynamic Dashboard
+
+https://public.tableau.com/views/E-CommerceDynamicDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
